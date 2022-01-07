@@ -9,7 +9,7 @@ Create a simple calendar application that allows a user to save events for each 
 
 When you click on the URL, each hour of the work day, starting at 8:00 am in the morning and ending at 05:00 pm in the afternoon is displayed and allows the user to enter an event or avtivity planned for that hour:
 
-(![image](https://user-images.githubusercontent.com/94102473/148539389-a11a7bf6-c76d-4f31-a86d-2077b86eaebf.png)
+![image](https://user-images.githubusercontent.com/94102473/148539389-a11a7bf6-c76d-4f31-a86d-2077b86eaebf.png
 
 Depending on when you launch the calendar, the hour is represented with the following colour coding: 
 
