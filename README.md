@@ -20,6 +20,6 @@ Depending on when you launch the calendar, the hour is represented with the foll
 Once an activity is entered and the save button is clicked, the activity for that hour is saved.  If you launch the calendar at another date / time the events captured are still available.  This means you can launch the calendar the day before and capture your activities planeed for the next day.  If you no longer want or need to the activity you can remove the activity from the calendar and save.  
 
 The program uses the Moment.js library to work to display the current date : ![image](https://user-images.githubusercontent.com/94102473/148540417-a959cd43-9dc8-4491-bd93-af0510178aa4.png)
-Hour values were dervived basedon the 24 hour clock to work out the colour coding of the schedule's hours.  
+Hour values were derived based on the 24 hour clock to work out the colour coding of the schedule's hours:  
 
 
